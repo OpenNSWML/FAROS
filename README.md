@@ -424,3 +424,15 @@ Current working rule:
 
 This repository is the first FAROS release candidate.
 It is already usable as a runtime baseline for LLM-domain AutoResearch workflows, but it is still the beginning of the platform transition rather than the end state.
+
+
+
+# GitHub Stars
+
+<p align="center">
+  <a href="https://star-history.com/#OpenNSWM-Lab/FAROS&Date">
+    <img src="https://api.star-history.com/svg?repos=OpenNSWM-Lab/FAROS&type=Date" alt="Star History Chart" width="100%"/>
+  </a>
+</p>
+  <sub>Built with care for the research community.</sub>
+</p>
