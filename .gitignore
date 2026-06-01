@@ -1,6 +1,10 @@
 # .gitignore for FAROS project
 # Generated to ignore virtualenvs, build artifacts, secrets, and common OS/IDE files
 
+*.json
+backend/data/
+backend/tests/
+
 # Python
 __pycache__/
 **/__pycache__/
